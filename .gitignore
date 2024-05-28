@@ -9,6 +9,7 @@
 !*.c
 !*.cpp
 !*.md
+!*.rb
 
 !CMakeLists.txt
 
